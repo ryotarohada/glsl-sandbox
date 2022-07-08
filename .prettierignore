@@ -1,3 +1,5 @@
-.next
 .gitignore
-next-env.d.ts
+.env
+node_modules
+package.json
+yarn.lock
